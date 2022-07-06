@@ -302,16 +302,6 @@ h6 {
 
 }
 
-hr {
-    height: 2px;
-    width: 50%;
-    border-width: 0;
-    color: gray;
-    background-color: gray
-}
-
-
-
 
 
 .r1::after {
