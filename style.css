@@ -1,0 +1,326 @@
+body {
+
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.back {
+
+    position: relative;
+    text-align: center;
+    /* color: white; */
+    border: 0;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.center {
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: xx-large;
+    font-size: 50px;
+    color: white;
+}
+
+.banp {
+    font-size: 25px;
+    color: white;
+
+}
+
+.button1 {
+    /* text-decoration: none;
+
+    background-color: #d15c42;
+
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+
+
+
+    font-size: 30px;
+    border-radius: 10px; */
+
+
+    text-decoration: none;
+
+    margin: auto;
+    text-decoration: none;
+    font-size: 25px;
+    color: aliceblue;
+    cursor: pointer;
+    border: none;
+    border-radius: 0ch;
+    background-color: #d04f32;
+    padding: 10px 3px;
+    width: 180px;
+
+    border-radius: 5px;
+}
+
+
+
+#two {
+
+    font-size: 40px;
+}
+
+.center2 {
+
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 100px;
+
+}
+
+.banp1 {
+    color: gray;
+    font-size: 25px;
+    text-align: center;
+
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 25px;
+
+}
+
+.ammount {
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    /* padding-left: 20%;
+    padding-right: 20%; */
+
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.tk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10%;
+
+    padding-left: 35px;
+    padding-right: 35px;
+    margin: 10px;
+    padding: 20px;
+    border-style: solid;
+    border: 3px;
+    border-color: red;
+    border-left: 10px;
+    border-right: 10px;
+    background-color: rgb(251, 242, 242);
+
+
+}
+
+#t200 {
+
+    background-color: rgba(220, 80, 80, 0.91);
+    border: 5px solid red;
+
+
+}
+
+
+.b2 {
+
+
+
+    text-align: center;
+    text-decoration: none;
+    background-color: #e3340c;
+    color: white;
+
+    text-align: center;
+
+
+    font-size: 30px;
+    border-radius: 10px;
+
+
+
+}
+
+
+
+/*
+ basic need cSS  Section name: "plan" 
+*/
+
+
+.plan {
+    display: flex;
+
+    border: #e3340c;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.btn1 {
+
+    margin-top: 80px;
+}
+
+
+
+
+
+.basic {
+
+
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 33%;
+    align-items: center;
+    /* border-left: 10px;
+    border-right: 10px; */
+
+
+
+
+    padding-left: 50px;
+    padding-right: 50px;
+
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.basic1 {
+    font-size: 30px;
+
+
+
+}
+
+.basic2 {
+
+
+    color: gray;
+    font-size: 18px;
+    /* text-align: center; */
+
+    /* padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 25px; */
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#food {
+
+    background-color: rgb(188, 221, 234);
+}
+
+#shelter {
+
+
+    background-color: rgb(243, 223, 226);
+}
+
+#edu {
+
+    background-color: bisque;
+}
+
+
+
+/* get my update css */
+
+
+.form {
+
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    display: flex;
+    background-color: bisque;
+
+
+    width: 60%;
+    margin-left: 350px;
+
+}
+
+.both {
+    display: flex;
+    justify-content: center;
+    /* width: 300px;
+    height: 50px; */
+    font-size: large;
+}
+
+#email {
+
+    justify-content: center;
+    align-items: center;
+    /* background-color: grey; */
+    font-size: 30px;
+
+}
+
+#email1 {
+
+    padding: 20px 16px;
+
+}
+
+
+#sub {
+
+    text-decoration: none;
+
+}
+
+.black {
+    padding: 40px;
+
+    text-align: center;
+    background: #0c0c0c;
+    color: rgb(202, 72, 72);
+    font-size: 20px;
+    margin: 0%;
+}
+
+h6 {
+    font: 15px;
+    color: white;
+}
+
+.sub-button {
+
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 0ch;
+    background-color: #d04f32;
+    padding: 20px 16px;
+
+
+
+}
+
+hr {
+    height: 2px;
+    width: 50%;
+    border-width: 0;
+    color: gray;
+    background-color: gray
+}
